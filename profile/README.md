@@ -1,4 +1,4 @@
-![](https://altearn.xyz/wp-content/uploads/2021/05/18310-1.png)
+![](https://altearn.xyz/wp-content/uploads/2022/05/Sans-titre.png)
 
 # Qu'est-ce qu'Altearn ?
 
