@@ -13,12 +13,13 @@ Altearn est une association éducative à but non lucratif, visant à réaliser 
 
 Altearn gère également 2 communautés : 
 
-- @Gunivers : visant à soutenir les créateurs dans leur projets autour des jeux vidéos et créer un espace propice à l'acquisition de compétences en développement, graphisme, modélisation, rédaction, communication, gestion de projet etc. le tout en veillant à ce que tout soit 100% gratuit et accessible.
+- **Gunivers** : visant à soutenir les créateurs dans leur projets autour des jeux vidéos et créer un espace propice à l'acquisition de compétences en développement, graphisme, modélisation, rédaction, communication, gestion de projet etc. le tout en veillant à ce que tout soit 100% gratuit et accessible.
   - [Site web](https://gunivers.net/)
   - [Discord](https://discord.gg/E8qq6tN)
+  - [Github](https://github.com/Gunivers)
   - [Youtube](https://www.youtube.com/channel/UCtQb5O95cCGp9iquLjY9O1g)
   - [Twitter](https://twitter.com/Gunivers_)
-- Curiosity : basé sur Discord, elle vise à créer un espace de discussion et de partage ouvert et gratuit sur divers sujets généraux comme les mathématiques, la physique, la politique, l'économie, la santé, l'histoire etc.
+- **Curiosity** : basé sur Discord, elle vise à créer un espace de discussion et de partage ouvert et gratuit sur divers sujets généraux comme les mathématiques, la physique, la politique, l'économie, la santé, l'histoire etc.
   - [Discord](https://discord.gg/B4UYxHc)
 
 # Nos services
