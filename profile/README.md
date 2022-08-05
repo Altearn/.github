@@ -21,6 +21,7 @@ Altearn gère également 2 communautés :
   - [Twitter](https://twitter.com/Gunivers_)
 - **Curiosity** : basé sur Discord, elle vise à créer un espace de discussion et de partage ouvert et gratuit sur divers sujets généraux comme les mathématiques, la physique, la politique, l'économie, la santé, l'histoire etc.
   - [Discord](https://discord.gg/B4UYxHc)
+  - [Github](https://github.com/Curiosity-org)
 
 # Nos services
 
